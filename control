@@ -1,0 +1,9 @@
+Package: com.zilvyn.lockwidgetsize
+Name: LockWidgetSize
+Depends: mobilesubstrate, preferenceloader
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Resize your Lock Screen widgets from Settings (iOS 16)
+Maintainer: zilvyn
+Author: zilvyn
+Section: Tweaks
